@@ -44,10 +44,8 @@
 <!-- <a href="https://www.hackerrank.com/poojaryprashast1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="poojaryprashast1" height="30" width="40" /></a> -->
 <!-- <a href="https://discord.gg/prashasthaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="prashasthaa" height="30" width="40" /></a> -->
 </p>
-
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashasthaa&show_icons=true&locale=en&layout=compact" alt="prashasthaa" /></p>-->
-
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashasthaa&show_icons=true&locale=en" alt="prashasthaa" /></p>-->
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashasthaa&&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact" alt="prashasthaa" /></p>
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashasthaa&" alt="prashasthaa" /></p>-->
 
@@ -57,3 +55,4 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" 
        alt="Express.js" width="40" height="20"/>
 </a>-->
+
