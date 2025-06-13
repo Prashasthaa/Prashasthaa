@@ -40,9 +40,11 @@
 <p align="left">
 <!--<a href="https://dev.to/prashasthaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prashasthaa" height="30" width="40" /></a>-->
 <a href="https://www.linkedin.com/in/prashastha-24293a295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashastha-" height="30" width="40" /></a>
-  
-<!-- <a href="https://www.hackerrank.com/poojaryprashast1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="poojaryprashast1" height="30" width="40" /></a> -->
-<!-- <a href="https://discord.gg/prashasthaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="prashasthaa" height="30" width="40" /></a> -->
+<a href="https://www.hackerrank.com/poojaryprashast1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="poojaryprashast1" height="30" width="40" /></a> 
+ <a href="https://discord.com/users/prashasthaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="prashasthaa" height="30" width="40" /></a>
+ <!--<a href="https://leetcode.com/YOUR_USERNAME/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+</a>-->
 </p>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashasthaa&&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact" alt="prashasthaa" /></p>
