@@ -1,3 +1,4 @@
+[![An image of @prashasthaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prashasthaa)]([https://holopin.io/@prashasthaa](https://www.holopin.io/@prashasthaa#badges))
 <h1 align="center">Hi 👋, I'm Prashastha</h1>
 <h3 align="center">Exploring, Experimenting, and Evolving Through Code 🌐</h3>
 
