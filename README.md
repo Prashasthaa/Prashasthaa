@@ -6,7 +6,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashasthaa" alt="prashasthaa" /></a> </p>-->
 
-<hr>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -36,7 +36,7 @@
 </a> -->
 
 </p>
-<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--<a href="https://dev.to/prashasthaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prashasthaa" height="30" width="40" /></a>-->
@@ -46,7 +46,7 @@
 <hr>
   
 [![An image of @prashasthaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prashasthaa)]([https://holopin.io/@prashasthaa](https://www.holopin.io/@prashasthaa#badges))
- <!--<a href="https://leetcode.com/YOUR_USERNAME/" target="blank">
+ <hr><!--<a href="https://leetcode.com/YOUR_USERNAME/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
 </a>-->
 <!-- </p>
