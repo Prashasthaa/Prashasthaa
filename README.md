@@ -1,4 +1,4 @@
-<!--[![An image of @prashasthaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prashasthaa)]([https://holopin.io/@prashasthaa](https://www.holopin.io/@prashasthaa#badges))-->
+
 <h1 align="center">Hi 👋, I'm Prashastha</h1>
 <h3 align="center">Exploring, Experimenting, and Evolving Through Code 🌐</h3>
 
@@ -43,6 +43,9 @@
 <a href="https://www.linkedin.com/in/prashastha-24293a295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashastha-" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/poojaryprashast1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="poojaryprashast1" height="30" width="40" /></a> 
  <a href="https://discord.com/users/prashasthaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="prashasthaa" height="30" width="40" /></a>
+
+  
+[![An image of @prashasthaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prashasthaa)]([https://holopin.io/@prashasthaa](https://www.holopin.io/@prashasthaa#badges))
  <!--<a href="https://leetcode.com/YOUR_USERNAME/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
 </a>-->
